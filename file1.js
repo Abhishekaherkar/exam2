@@ -16,3 +16,9 @@ class Demoarray
 	}
 
 }
+
+class change
+{
+
+System.out.println("change");
+}
